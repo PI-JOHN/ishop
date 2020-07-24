@@ -3,6 +3,8 @@
 
 namespace ishop;
 
+use ishop\Registry;
+
 
 class App
 {
@@ -29,6 +31,7 @@ class App
                 self::$app->setProperty($key, $value);
             }
         }
+
     }
 
 }
