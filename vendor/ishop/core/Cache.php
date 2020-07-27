@@ -13,7 +13,7 @@ class Cache
         if($seconds){
             $content['data'] = $data;
             $content['end_time'] = time() + $seconds;
-            if(file_put_contents(CACHE . '/' . md5($key) . '.txt', serialize($content))){
+            if(file_put_contents(CACHE . '/' . $key . '.txt', serialize($content))){
                 return true;
             }
         }
@@ -23,11 +23,12 @@ class Cache
 
     public function get($key)
     {
-        $file = CACHE . '/' . md5($key) . '.txt';
+        $file = CACHE . '/' . $key . '.txt';
         if(file_exists($file)){
             $content = unserialize(file_get_contents($file));
             if (time() <= $content['end_time']){
-                return $content;
+               // debug($content['data']);
+                return $content['data'];
             }
             unlink($file);
         }
