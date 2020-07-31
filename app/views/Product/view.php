@@ -69,6 +69,7 @@
                                 </del>
                             <?php endif; ?>
                             <p><?=$product->content; ?></p>
+                            <?php if($mods): ?>
                             <div class="available">
                                 <ul>
                                     <li>Color
@@ -86,6 +87,7 @@
                                     <div class="clearfix"> </div>
                                 </ul>
                             </div>
+                            <?php endif; ?>
                             <ul class="tag-men">
                                 <li><span>Category</span>
                                     <span>:
