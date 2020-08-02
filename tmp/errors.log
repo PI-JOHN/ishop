@@ -697,3 +697,27 @@
 [2020-08-02 11:13:54] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
         Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
 ================
+[2020-08-02 12:26:04] Текст ошибки: syntax error, unexpected end of file | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\views\Cart\view.php | Строка: 57
+================
+[2020-08-02 12:26:38] Текст ошибки: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\views\Cart\view.php | Строка: 58
+================
+[2020-08-02 16:24:46] Текст ошибки: Invalid type: order_product | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Строка: 77
+================
+[2020-08-02 16:52:49] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text' in 'field list' | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 16:53:11] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`ishop`.`order_product`, CONSTRAINT `order_product_ibfk_1` FOREIGN KEY (`order_id`) REFERENCES `order` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 16:54:02] Текст ошибки: syntax error, unexpected ',' | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\models\Order.php | Строка: 30
+================
+[2020-08-02 16:54:25] Текст ошибки: syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting ')' | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\models\Order.php | Строка: 30
+================
+[2020-08-02 16:54:42] Текст ошибки: syntax error, unexpected ';', expecting ')' | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\models\Order.php | Строка: 30
+================
