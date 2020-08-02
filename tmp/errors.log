@@ -541,3 +541,159 @@
 [2020-07-31 18:20:12] Текст ошибки: Страница не найдена | 
         Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 61
 ================
+[2020-08-02 07:32:41] Текст ошибки: Class 'app\controllers\User' not found | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\controllers\UserController.php | Строка: 12
+================
+[2020-08-02 07:33:23] Текст ошибки: Class 'app\controllers\User' not found | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\controllers\UserController.php | Строка: 12
+================
+[2020-08-02 07:33:36] Текст ошибки: Class 'app\controllers\User' not found | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\controllers\UserController.php | Строка: 12
+================
+[2020-08-02 08:30:46] Текст ошибки: Страница не найдена | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 61
+================
+[2020-08-02 09:03:49] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:05:16] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:08:46] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:11:23] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'password' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:11:50] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'password' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:11:54] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'password' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:12:25] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'password' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:12:57] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:23:53] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:24:51] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:25:14] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:25:30] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:26:32] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:27:19] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:27:43] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:28:25] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:28:50] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:29:05] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 09:29:11] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 10:45:21] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 10:46:16] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 10:48:35] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 10:48:37] Текст ошибки: syntax error, unexpected 'unset' (T_UNSET) | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\views\User\signup.php | Строка: 44
+================
+[2020-08-02 10:48:49] Текст ошибки: syntax error, unexpected 'unset' (T_UNSET) | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\views\User\signup.php | Строка: 44
+================
+[2020-08-02 10:49:12] Текст ошибки: syntax error, unexpected '{' | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\views\User\signup.php | Строка: 44
+================
+[2020-08-02 10:49:48] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 10:51:35] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 10:52:33] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 10:55:01] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 10:55:05] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:03:07] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:04:19] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:05:23] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:05:36] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:05:46] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:06:23] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:06:30] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:07:01] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:07:22] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:08:25] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:09:31] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:10:13] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:10:52] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:11:22] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:11:45] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:12:09] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:12:21] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
+[2020-08-02 11:13:54] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
