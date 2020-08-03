@@ -721,3 +721,6 @@
 [2020-08-02 16:54:42] Текст ошибки: syntax error, unexpected ';', expecting ')' | 
         Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\app\models\Order.php | Строка: 30
 ================
+[2020-08-03 07:31:22] Текст ошибки: Address in mailbox given [vasyaglazz] does not comply with RFC 2822, 3.6.2. | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Mime\Headers\MailboxHeader.php | Строка: 355
+================
