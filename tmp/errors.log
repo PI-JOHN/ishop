@@ -724,3 +724,6 @@
 [2020-08-03 07:31:22] Текст ошибки: Address in mailbox given [vasyaglazz] does not comply with RFC 2822, 3.6.2. | 
         Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Mime\Headers\MailboxHeader.php | Строка: 355
 ================
+[2020-08-04 10:24:36] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'attribute_id' in 'where clause' | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+================
