@@ -36,7 +36,12 @@ class CategoryController extends AppController
              SELECT product_id FROM attribute_product WHERE attribute_id IN (1,5)
             )*/
             $filter = Filter::getFilter();
-            $sql_part = "AND id IN (SELECT product_id FROM attribute_product WHERE attr_id IN ($filter))";
+            if ($filter){
+                $cnt = Filter::getCountGroups($filter);
+                $sql_part = "AND id IN (SELECT product_id FROM attribute_product WHERE attr_id IN ($filter) 
+                GROUP BY product_id HAVING COUNT(product_id) = $cnt) ";
+            }
+
         }
 
 
