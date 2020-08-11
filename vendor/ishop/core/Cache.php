@@ -38,7 +38,7 @@ class Cache
 
     public function delete($key)
     {
-        $file = CACHE . '/' . md5($key) . '.txt';
+        $file = CACHE . '/' . $key . '.txt';
         if(file_exists($file)){
             unlink($file);
         }
