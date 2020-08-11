@@ -584,6 +584,7 @@
 
 <!-- jQuery 3 -->
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/js/ajaxupload.js"></script>
 
 <script>
     $.widget.bridge('uibutton', $.ui.button);

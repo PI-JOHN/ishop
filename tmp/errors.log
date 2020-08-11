@@ -275,3 +275,9 @@
 [2020-08-11 11:07:52] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | 
         Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 55
 ================
+[2020-08-11 14:20:13] Текст ошибки: Не найден вид C:\Users\Valerka\Downloads\OSPanel\domains\ishop/app/views/admin\Product/add-image.php | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\ishop\core\base\View.php | Строка: 55
+================
+[2020-08-11 14:38:13] Текст ошибки: Страница не найдена | 
+        Файл: C:\Users\Valerka\Downloads\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 61
+================
