@@ -49,7 +49,7 @@ class CategoryController extends AppController
         $total = \R::count('product', "category_id IN ($ids) $sql_part");
         $pagination = new Pagination($page, $perpage, $total);
         $start = $pagination->getStart();
-        $products = \R::find('product', "category_id IN ($ids) $sql_part LIMIT $start, $perpage");
+        $products = \R::find('product', "status='1' AND category_id IN ($ids) $sql_part LIMIT $start, $perpage");
         if($this->isAjax()){
             $this->loadView('filter',compact('products', 'total', 'pagination'));
         }
